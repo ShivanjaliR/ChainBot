@@ -1,5 +1,3 @@
-## Grace Hopper AI Chatbot application
-
 ### Pre-requisites start here
 
 ### Pre-requisite 1: Install the Dependencies:
@@ -135,7 +133,7 @@ set OLLAMA_HOST=127.0.0.1:11435
 ollama serve
 
 <div> 
-    <img src="./iamges/ollama_start.png" width="50%"/>
+    <img src="./images/ollama_start.png" width="50%"/>
 </div>
 <br/>
 
@@ -149,7 +147,7 @@ Use the pdf file - Lumina.pdf (or Elena.pdf) in the folder and Ask questions abo
 
 #### Final output
 <div> 
-    <img src="./iamges/chatbot-image.png" width="50%"/>
+    <img src="./images/chatbot-image.png" width="50%"/>
 </div>
 <br/>
 
